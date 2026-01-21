@@ -1,0 +1,12 @@
+{
+  "solidity": {
+    "command": "forge",
+    "args": ["lsp"],
+    "extensionToLanguage": {
+      ".sol": "solidity"
+    },
+    "initializationOptions": {
+      "detailedCompletion": true
+    }
+  }
+}
