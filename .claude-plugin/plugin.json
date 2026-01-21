@@ -1,7 +1,7 @@
 {
   "name": "foundry",
   "description": "Skills with progressive disclosure for using Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil, chisel)",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "author": {
     "name": "cyotee"
   },
