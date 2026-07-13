@@ -97,6 +97,25 @@ Set up and configure Foundry projects.
 - `SKILL.md` - Project structure, dependencies, and common tasks
 - `config.md` - Complete foundry.toml configuration reference
 
+
+### forge-signing
+
+Sign messages with Foundry cheatcodes for testing signature verification (EIP-712, Permit2, signed data).
+
+**Use when:**
+- Testing EIP-712 signature verification
+- Permit2 signature flows in Solidity tests
+- Any signed data verification with `vm.sign`
+
+### supersim
+
+Local multi-L2 Superchain development environment (Optimism Supersim).
+
+**Use when:**
+- Testing cross-chain applications locally
+- OP Stack L1/L2 message passing
+- Multi-chain Superchain simulations
+
 ## Installation
 
 Add this plugin to your Claude Code plugins:

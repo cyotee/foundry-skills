@@ -1,0 +1,26 @@
+{
+  "name": "foundry",
+  "version": "1.2.0",
+  "description": "Skills and Solidity LSP for Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil) plus signing cheatcodes and Supersim Superchain local testing",
+  "author": {
+    "name": "cyotee"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "foundry",
+    "forge",
+    "cast",
+    "anvil",
+    "smart-contracts",
+    "testing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "foundry",
+    "shortDescription": "Skills and Solidity LSP for Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil) plus signing ch",
+    "longDescription": "Skills and Solidity LSP for Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil) plus signing cheatcodes and Supersim Superchain local testing",
+    "category": "Development",
+    "developerName": "cyotee"
+  }
+}
