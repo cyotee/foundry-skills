@@ -1,7 +1,7 @@
 {
   "name": "foundry",
   "version": "1.3.0",
-  "description": "Foundry developer skills: forge testing, fuzzing, deployment, project setup (cast/anvil in foundry-agent)",
+  "description": "Foundry developer skills: forge testing, fuzzing, deployment scripts, project setup, signing cheatcodes, and Supersim. Agent cast/anvil runtime lives in foundry-agent-skills.",
   "author": {
     "name": "cyotee"
   },
@@ -10,16 +10,15 @@
     "ethereum",
     "foundry",
     "forge",
-    "cast",
-    "anvil",
     "smart-contracts",
-    "testing"
+    "testing",
+    "deployment"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "foundry",
-    "shortDescription": "Skills and Solidity LSP for Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil) plus signing ch",
-    "longDescription": "Skills and Solidity LSP for Foundry - the blazing fast Ethereum development toolkit (forge, cast, anvil) plus signing cheatcodes and Supersim Superchain local testing",
+    "shortDescription": "Foundry developer skills: forge testing, fuzzing, deployment scripts, project setup, signing cheatcodes, and Supersim. A",
+    "longDescription": "Foundry developer skills: forge testing, fuzzing, deployment scripts, project setup, signing cheatcodes, and Supersim. Agent cast/anvil runtime lives in foundry-agent-skills.",
     "category": "Development",
     "developerName": "cyotee"
   }
